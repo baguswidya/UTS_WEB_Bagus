@@ -1,0 +1,45 @@
+#c{
+	height: 500px;
+	background: #ababab;
+}
+#d{
+	height: 500px;
+	background: #994557;
+}
+#e{
+	height: 500px;
+	background: #ababab;
+}
+.atur{
+padding: 40px;
+}
+.praf{
+	padding: 20px;
+	margin : 20px;
+	bgcolor:#ff99af;
+}
+.cari{
+	padding: 8px 15px;
+	border: 0px solid #dbdbdb;
+}
+.tombol{
+	position: relative;
+	padding: 6px 15px;
+	left: -8px;
+	border: 2px solid #53bd84;
+	background-color: #53bd84;
+	color: #fafafa;
+}
+.praraf{
+	padding: 20px;
+	margin : 20px;
+}
+
+.garis {
+	margin-left: 1px;
+	position: center-center;
+	width:650px;
+	height: 300px;
+	border: 2px solid black;
+
+}
